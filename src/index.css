@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Fancybox custom styles */
+.fancybox__backdrop {
+  background: rgba(3, 3, 39, 0.7);
+}
+
+.fancybox__container {
+  --fancybox-bg: #59a328c0;
+  --fancybox-color: #37415163;
+}
+
+/* Category-specific styles */
+.frontend-section .video-play-button {
+  color: #5f9fff;
+}
+
+.backend-section .video-play-button {
+  color: #10B981;
+}
+
+.innovation-section .video-play-button {
+  color: #8B5CF6;
+}
+
