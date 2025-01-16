@@ -7,7 +7,7 @@
 Ejecuta el siguiente comando para clonar el repositorio:
 
 ```bash
-git clone <url_repositorio>
+git clone https://github.com/Glasssi/Alura-Flix.git
 ```
 ### 2. Instala las dependencias
 
